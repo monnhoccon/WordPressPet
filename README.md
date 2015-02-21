@@ -54,3 +54,7 @@ WordPressPet
 Blog
 -------
 + [给网站加一个浮动小人—wordpress博客宠物（不知道是不是叫这个名字…）](http://www.anotherhome.net/785)
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/DIYgod/wordpresspet/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
